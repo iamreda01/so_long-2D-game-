@@ -5,3 +5,6 @@ so_long is a project that serves as an introduction to the fascinating world of 
 In my project, I worked with MiniLibX (mlx), a lightweight graphical library developed by my school, 42. It’s designed to simplify graphics programming by providing tools for window creation, image handling, and event management. Using mlx, I learned how to efficiently manage game assets, render sprites, and handle player inputs seamlessly.
 
 This project not only teaches technical skills like event handling, collision detection, and performance optimization but also offers insight into the creative process of building interactive experiences. It’s a perfect foundation for exploring more advanced concepts in game development and design.
+
+manada_part :
+![image alt](Screen Shot 2025-01-27 at 12.21.23 PM.png)
