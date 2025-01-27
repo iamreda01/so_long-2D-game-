@@ -6,3 +6,4 @@ In my project, I worked with MiniLibX (mlx), a lightweight graphical library dev
 
 This project not only teaches technical skills like event handling, collision detection, and performance optimization but also offers insight into the creative process of building interactive experiences. It’s a perfect foundation for exploring more advanced concepts in game development and design.
 
+![image alt](https://github.com/iamreda01/so_long-2D-game-/blob/d2b6cc440e3f8a434855b81f165e7e09d345da3f/Screen%20Shot%202025-01-27%20at%2012.21.23%20PM.png)
