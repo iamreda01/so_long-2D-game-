@@ -6,7 +6,7 @@
 /*   By: rel-kass <rel-kass@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/01 22:55:03 by rel-kass          #+#    #+#             */
-/*   Updated: 2025/02/04 15:42:49 by rel-kass         ###   ########.fr       */
+/*   Updated: 2025/02/04 15:48:26 by rel-kass         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
 # include "utils/get_next_line.h"
 # include <fcntl.h>
 
-// tructs;
+// structs;
 typedef struct element_count
 {
 	int	p_count;
