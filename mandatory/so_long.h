@@ -6,7 +6,7 @@
 /*   By: rel-kass <rel-kass@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/01 22:55:03 by rel-kass          #+#    #+#             */
-/*   Updated: 2025/01/22 22:32:11 by rel-kass         ###   ########.fr       */
+/*   Updated: 2025/02/04 15:42:49 by rel-kass         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,7 +58,7 @@ size_t	ft_strlcpy(char *dst, const char *src, size_t dstsize);
 int		find_pos_x(t_slg *data, char c, int x, int y);
 int		find_pos_y(t_slg *data, char c, int x, int y);
 
-//map_check_funcs
+//map_check_funcs;
 void	init_var(t_slg *data);
 void	check_name(char *str);
 char	*join_map(t_slg *data, char *str);
@@ -75,7 +75,7 @@ void	init_xpm(t_slg *data);
 char	*get_image(t_slg *data, int x, int y);
 void	game_rendring(t_slg *data);
 
-// events
+// events;
 int		destroy_win(t_slg *data);
 int		events_handling(int key_code, t_slg *data);
 void	move_up(t_slg *data, int x, int y);
@@ -83,7 +83,7 @@ void	move_down(t_slg *data, int x, int y);
 void	move_right(t_slg *data, int x, int y);
 void	move_left(t_slg *data, int x, int y);
 
-//errors
+//errors;
 void	print_error(char *str, t_slg *data);
 void	free_map(t_slg *data);
 void	free_str(t_slg *data);
